@@ -1,0 +1,63 @@
+{
+  "componentLayouts": {
+    "default-body": {
+      "columnSpan": 7,
+      "columnStart": 0,
+      "margin": {
+        "bottom": 15
+      }
+    }
+  },
+  "componentTextStyles": {
+    "bodyStyle": {
+      "fontName": "Georgia",
+      "fontSize": 25,
+      "hyphenation": false,
+      "lineHeight": 40,
+      "linkStyle": {
+        "textColor": "#0000ff",
+        "underline": {
+          "color": "#0000ff"
+        }
+      },
+      "opacity": 0.8,
+      "textAlignment": "left",
+      "textColor": "#333"
+    }
+  },
+  "components": [
+    {
+      "role": "body",
+      "text": "Here is some info about dogs."
+    }
+  ],
+  "documentStyle": {
+    "backgroundColor": "#FFF"
+  },
+  "identifier": "dogs_article_v1",
+  "language": "en",
+  "layout": {
+    "columns": 7,
+    "gutter": 10,
+    "margin": 70,
+    "width": 1024
+  },
+  "metadata": {
+    "canonicalURL": "https://dogs.com",
+    "dateCreated": "2018-12-01T10:12:48-05:00",
+    "dateModified": "2018-12-01T10:12:48-05:00",
+    "datePublished": "2018-12-01T10:12:48-05:00",
+    "excerpt": "Man's best friend, at it again."
+  },
+  "subtitle": "All About Dogs",
+  "textStyles": {
+    "black": {
+      "textColor": "#333"
+    },
+    "bodySpanColorStyle": {
+      "textColor": "#222e33"
+    }
+  },
+  "title": "Dogs, Dogs, Dogs!",
+  "version": "1.7"
+}
